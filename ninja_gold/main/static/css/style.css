@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: gray;
+}
+
+#container {
+    margin: 0 auto;
+    width: 970px;
+}
+
+.location{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+input{
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+
+p{
+    color:white;
+    font-size: x-large;
+}
+
+#activities{
+    font-size: large;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+form { 
+    float: left;
+    width: 25%;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+
